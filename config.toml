@@ -106,7 +106,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Project 2 - Trump’s Approval Margins"
       subtitle = "A detailed look at changes of Donald Trump's approval margins"
-      image = "projects/trump.jpg" {height=50%}
+      image = "projects/trump.jpg"
       url = "projects/project2"
 
     [[params.tiles.showcase]]
